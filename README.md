@@ -1,2 +1,2 @@
 # Lusion
-学习 three.js ，复刻 https://lusion.co/about 页面
+three.js ，尝试复刻 https://lusion.co/about
